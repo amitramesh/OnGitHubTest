@@ -12,4 +12,9 @@ namespace ConsoleApplication1
         {
         }
     }
+
+    public class Employee
+    {
+        public string EmpCode { get; set; }
+    }
 }
